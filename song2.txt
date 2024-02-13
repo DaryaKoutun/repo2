@@ -13,8 +13,3 @@ r8
 content for new branch 1
 content for new branch 2
 content for new branch 3
-
-
-content for master branch 1
-content for master branch 2
-content for master branch 3
